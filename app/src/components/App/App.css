@@ -1,0 +1,39 @@
+body {
+  background-color: #282c34;
+}
+.App {
+  color: #ffffff;
+}
+
+
+.App-header {
+  width: 100%;
+  margin: 20px 0 40px;
+}
+
+.App-headers {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.country-info {
+  margin: 40px 0 0;
+  text-align: right;
+}
+.graph-wrapper {
+  margin: 30px 0;
+  border: 1px solid #4e4e4e}
+.App-link {
+  color: #61dafb;
+}
+.container {
+  width: 100%;
+}
+.select-container {
+  width: 350px;  
+}
